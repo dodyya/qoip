@@ -1118,6 +1118,7 @@ dependencies = [
  "clap",
  "crc",
  "pixels",
+ "png",
  "winit",
  "winit_input_helper",
 ]
